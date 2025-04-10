@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secure Gate Control</title>
+    <script>
+        function sendRequest(endpoint, script) {
+            fetch(endpoint, {
+                method: "POST",
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: "script=" + script
+            })
+            .then(response => response.json())
+            .then(data => alert(data.message))
+            .catch(error => console.error("Error:", error));
+        }
+    </script>
+</head>
+<body>
+    <h2>Secure Gate Control Panel</h2>
+
+    <button onclick="sendRequest('/run', 'get_faces_from_camera_tkinter.py')">Run Script 1</button>
+    <button onclick="sendRequest('/stop', 'get_faces_from_camera_tkinter.py')">Stop Script 1</button><br><br>
+
+    <button onclick="sendRequest('/run', 'script2.py')">Run Script 2</button>
+    <button onclick="sendRequest('/stop', 'script2.py')">Stop Script 2</button><br><br>
+
+    <button onclick="sendRequest('/run', 'script3.py')">Run Script 3</button>
+    <button onclick="sendRequest('/stop', 'script3.py')">Stop Script 3</button><br><br>
+
+    <button onclick="sendRequest('/run', 'script4.py')">Run Script 4</button>
+    <button onclick="sendRequest('/stop', 'script4.py')">Stop Script 4</button><br><br>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secure Gate Control</title>
+    <script>
+        function sendRequest(endpoint, script) {
+            fetch(endpoint, {
+                method: "POST",
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: "script=" + script
+            })
+            .then(response => response.json())
+            .then(data => alert(data.message))
+            .catch(error => console.error("Error:", error));
+        }
+    </script>
+</head>
+<body>
+    <h2>Secure Gate Control Panel</h2>
+
+    <button onclick="sendRequest('/run', 'script1.py')">Run Script 1</button>
+    <button onclick="sendRequest('/stop', 'script1.py')">Stop Script 1</button><br><br>
+
+    <button onclick="sendRequest('/run', 'script2.py')">Run Script 2</button>
+    <button onclick="sendRequest('/stop', 'script2.py')">Stop Script 2</button><br><br>
+
+    <button onclick="sendRequest('/run', 'script3.py')">Run Script 3</button>
+    <button onclick="sendRequest('/stop', 'script3.py')">Stop Script 3</button><br><br>
+
+    <button onclick="sendRequest('/run', 'script4.py')">Run Script 4</button>
+    <button onclick="sendRequest('/stop', 'script4.py')">Stop Script 4</button><br><br>
+
+</body>
+</html>

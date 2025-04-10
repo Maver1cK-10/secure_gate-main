@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=JTUSjIg1_i6t8kCHKm45xWtzkC_B2PJQggyLgkYVZVJ6jIqJCor_grt8TyiN74-_D_ZovZq4XChyoBvHrLrtYRlYtdjwRtahj7lVWgXjpy6t3-jIkKYhZwCve_4I5rfEnuCfEl5BiCiHk2vmE4TkaHk&skey=7bc19f711c0de8f&v=v29) format('woff2');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=JTUSjIg1_i6t8kCHKm45xWtzkC_B2PJQggyLgkYVZVJ6jIqJCor_grt8TyiN74-_D_ZovZq4XChyoBvHrLrtYRlYtdjwRtahj7lVWgXjpy6t3-jIkKYhZwCve_4I5rfEnuCfEl5BiCiHk2vmE4TkaHk&skey=7bc19f711c0de8f&v=v29) format('woff2');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=JTUSjIg1_i6t8kCHKm45xWtzkC_B2PJQggyLgkYVZVJ6jIqJCor_grt8TyiN74-_D_ZovZq4XChyoBvHrLrtYRlYtdjwRtahj7lVWgXjpy6t3-jIkKYhZwCve_4I5rfEnuCfEl5BiCiHk2vmE4TkaHk&skey=7bc19f711c0de8f&v=v29) format('woff2');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=JTUSjIg1_i6t8kCHKm45xWtzkC_B2PJQggyLgkYVZVJ6jIqJCor_grt8TyiN74-_D_ZovZq4XChyoBvHrLrtYRlYtdjwRtahj7lVWgXjpy6t3-jIkKYhZwCve_4I5rfEnuCfEl5BiCiHk2vmE4TkaHk&skey=7bc19f711c0de8f&v=v29) format('woff2');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=JTUSjIg1_i6t8kCHKm45xWtzkC_B2PJQggyLgkYVZVJ6jIqJCor_grt8TyiN74-_D_ZovZq4XChyoBvHrLrtYRlYtdjwRtahj7lVWgXjpy6t3-jIkKYhZwCve_4I5rfEnuCfEl5BiCiHk2vmE4TkaHk&skey=7bc19f711c0de8f&v=v29) format('woff2');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1VVdufqXutaBpHIWNTUI_1euyY20ctAVhcyTK7ENXC68Ne5GQEWAh7PrngpUcvGsvy7bWYBncQ-bDn8oX5bWpd5UAD5Pvru1cwo4Xw2zz302TiJyma6jd6w8QGIeBSvY7VQ&skey=cee854e66788286d&v=v28) format('woff2');
+}

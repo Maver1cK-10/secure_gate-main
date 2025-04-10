@@ -1,0 +1,14 @@
+MFRC522 Pin	Raspberry Pi Pin
+SDA (SS)	GPIO 8 (CE0)
+SCK	GPIO 11 (SCLK)
+MOSI	GPIO 10 (MOSI)
+MISO	GPIO 9 (MISO)
+IRQ	Not Connected
+GND	GND
+RST	GPIO 25
+3.3V	3.3V
+Servo Motor (SG90) to Raspberry Pi
+Servo Motor Pin	Raspberry Pi Pin
+VCC (Red)	5V
+GND (Brown/Black)	GND
+Signal (Yellow/Orange)	GPIO 17
