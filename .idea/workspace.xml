@@ -1,23 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1910dca4-88b2-4e5a-930f-b12bcfc81cb0" name="Changes" comment="" />
+    <list default="true" id="1910dca4-88b2-4e5a-930f-b12bcfc81cb0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_10_Sakshi/img_face_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_10_Sakshi/img_face_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_10_Sakshi/img_face_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_2_Divya/img_face_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_2_Divya/img_face_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_3_Sanjyot/img_face_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_3_Sanjyot/img_face_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_3_Sanjyot/img_face_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_4_Kiran/img_face_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_4_Kiran/img_face_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_5_Aditya/img_face_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_6_shantanu/img_face_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_7_Samruddhi/img_face_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_8_siddhi/img_face_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_faces_from_camera/person_8_siddhi/img_face_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/features_all.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/features_all.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry_taker.py" beforeDir="false" afterPath="$PROJECT_DIR$/entry_taker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secure_gate.db" beforeDir="false" afterPath="$PROJECT_DIR$/secure_gate.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2vfn6dTVbsK9h1tjLXCG0C0qtyB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/Desktop/secure_gate-main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

@@ -33,7 +33,7 @@ conn.commit()
 conn.close()
 
 # Define server details for sending data
-server_ip = "192.168.233.184"
+server_ip = "192.168.99.184"
 server_port = 5000
 
 def send_data_to_server(age, server_ip, server_port):
@@ -57,7 +57,7 @@ def send_data_to_server(age, server_ip, server_port):
     print(f"Server Response: {response.decode()}")
 
 class RemoteVideoStream:
-    def __init__(self, server_ip='192.168.233.147', port=5000):
+    def __init__(self, server_ip='192.168.99.147', port=5000):
         self.server_ip = server_ip
         self.port = port
         self.socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -93,7 +93,7 @@ class Face_Recognizer:
         except Exception as e:
             print(f"Failed to send command: {e}")
 
-    def __init__(self, pi_ip='192.168.233.147'):
+    def __init__(self, pi_ip='192.168.99.147'):
 
         # def _init_(self, pi_ip='192.168.69.147'):  # Add parameter
         self.server_ip = pi_ip  # Store Pi's IP
@@ -348,7 +348,7 @@ class Face_Recognizer:
 
                 logging.debug("Frame ends\n\n")
 
-    def run(self, server_ip='192.168.233.147'):
+    def run(self, server_ip='192.168.99.147'):
         # Create RemoteVideoStream instead of using local camera
         video_stream = RemoteVideoStream(server_ip)
         self.process(video_stream)
